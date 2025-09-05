@@ -106,7 +106,7 @@ function Navbar() {
           alt="My Interview Practice"
           style={styles.logoImg}
         />
-        <span style={styles.logoText}>My Interview Practice</span>
+        <span style={styles.logoText}>FaceThePannel</span>
       </Link>
 
       <ul style={styles.navLinks}>
